@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0 ;
+}
+.nav {
+    display: 100px;
+    justify-content: space-between;
+    background-color: black;
+    color: azure;
+    padding: 20px 40px;
+}
+
+.nav .right {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+}
+
